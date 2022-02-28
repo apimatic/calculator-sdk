@@ -1,4 +1,3 @@
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.apimatic/sample-calculator-sdk/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.apimatic/sample-calculator-sdk)
 
 # Getting Started with APIMATIC Calculator
 
