@@ -7,7 +7,7 @@
 
 	<groupId>io.github.apimatic</groupId>
 	<artifactId>sample-calculator-sdk</artifactId>
-	<version>0.1.0</version>
+	<version>1.0.4</version>
 	<packaging>jar</packaging>
 
 	<name>CalculatorSDK</name>
@@ -16,8 +16,8 @@
 
 	<developers>
 		<developer>
-			<name>Muhammad Sufyan</name>
-			<email>muhammad.sufyan@apimatic.io</email>
+			<name>Wajahat Iqbal</name>
+			<email>wajahat.iqbal@apimatic.io</email>
 			<organization>APIMatic</organization>
 			<organizationUrl>https://www.apimatic.io/</organizationUrl>
 		</developer>
