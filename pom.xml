@@ -7,7 +7,7 @@
 
 	<groupId>io.github.apimatic</groupId>
 	<artifactId>sample-calculator-sdk</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<packaging>jar</packaging>
 
 	<name>CalculatorSDK</name>
